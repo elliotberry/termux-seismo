@@ -2,6 +2,7 @@
 #wrangler (cf workers)
 .wrangler
 # Compiled source
+./data/*
 *.com
 *.class
 *.dll
